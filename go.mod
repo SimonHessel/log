@@ -1,4 +1,4 @@
-module https: //github.com/SimonHessel/log
+module github.com/SimonHessel/log
 
 go 1.14
 
